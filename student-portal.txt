@@ -3,3 +3,6 @@ Welcome to the Student Portal
 
 Login Feature
 Students can log in using their university credentials.
+
+Profile Feature
+Students can view their profile.
